@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/shaleen/Documents/Spring21/cs416-sp21/project2/code'
+let g:netrw_dirhist_4='/Users/shaleen/IntroToAI/Assign3/report/figures'
+let g:netrw_dirhist_3='/Users/shaleen/Documents/IntelliOS-paper/Consolidation'
+let g:netrw_dirhist_2='/Users/shaleen/Documents/IntelliOS-paper/plots/IOWaitvWorkload'
+let g:netrw_dirhist_1='/Users/shaleen/Documents/IntelliOS-paper'
