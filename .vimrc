@@ -32,7 +32,7 @@ set background=dark
 colorscheme molokai
 
 "cscope
-source cscope_maps.vim
+"source cscope_maps.vim
 
 set wildmenu
 set wildmode=list:full
