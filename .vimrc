@@ -5,9 +5,9 @@ set nu
 set numberwidth=5
 
 "Tab Settings
-set sw=4
-set sts=4
-set tabstop=5
+set sw=8
+set sts=8
+set tabstop=8
 set expandtab
 set laststatus=2
 set ruler
